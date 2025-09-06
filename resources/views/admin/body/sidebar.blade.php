@@ -50,21 +50,21 @@
     </a>
   </li> 
   <li  class="active" >
-    <a class="sidenav-item-link" href="{{ route('home.about') }}">
+    <a class="sidenav-item-link" href="">
       <span class="nav-text">Home About</span>
       
     </a>
   </li> 
 
   <li  class="active" >
-    <a class="sidenav-item-link" href="{{ route('multi.image') }}">
+    <a class="sidenav-item-link" href="">
       <span class="nav-text">Home Portfolio</span>
       
     </a>
   </li> 
 
   <li  class="active" >
-    <a class="sidenav-item-link" href="{{ route('all.brand') }}">
+    <a class="sidenav-item-link" href="">
       <span class="nav-text">Home Brand</span>
       
     </a>
@@ -89,13 +89,13 @@
                       <div class="sub-menu">
                         
                       <li  class="active" >
-    <a class="sidenav-item-link" href="{{ route('admin.contact') }}">
+    <a class="sidenav-item-link" href="">
       <span class="nav-text">Contact Profile</span>
       
     </a>
   </li> 
   <li  class="active" >
-    <a class="sidenav-item-link" href="{{ route('admin.message') }}">
+    <a class="sidenav-item-link" href="">
       <span class="nav-text">Contact Message</span>
       
     </a>

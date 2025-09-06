@@ -149,12 +149,12 @@
                       </li>
 
                       <li>
-                        <a href="{{ route('profile.update') }}">
+                        <a href="">
                           <i class="mdi mdi-account"></i> My Profile
                         </a>
                       </li>
                       <li>
-                        <a href="{{ route('change.password') }}">
+                        <a href="">
                           <i class="mdi mdi-email"></i> Change Password
                         </a>
                       </li>
@@ -166,7 +166,7 @@
                       </li>
 
                       <li class="dropdown-footer">
-                        <a href="{{ route('user.logout') }}"> <i class="mdi mdi-logout"></i> Log Out </a>
+                        <a href=""> <i class="mdi mdi-logout"></i> Log Out </a>
                       </li>
                     </ul>
                   </li>
